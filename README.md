@@ -1,4 +1,7 @@
 # Algoritmo-genetico
+
+Esse projeto foi o trabalho da matéria Tópicos Especiais II do curso de Análise e Desenvolvimento de sistemas (IFES)
+
 Introdução a algoritimo genético
 
 
